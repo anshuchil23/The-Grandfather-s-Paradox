@@ -1,0 +1,27 @@
+body {
+    background-color:Black;
+  }
+  
+  a:link {
+    color: Lavender;
+    text-align: Center;
+    text-decoration: none;
+  }
+  a:visited {
+   color: LightSalmon;
+     text-align: center;
+  }
+  a:hover{
+color: LightSalmon;
+text-align: center; 
+
+  }
+  
+  p {
+    font-family: 'Courier Prime';
+  
+    line-height: 50px;
+    font-size: 40px;
+    color : Tomato
+
+  }
